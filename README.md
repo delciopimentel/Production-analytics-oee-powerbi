@@ -6,7 +6,7 @@ Industrial data analytics project focused on production efficiency, OEE, and dow
 
 Production Dashboard (OEE & KPIs)
 
-![Production Dashboard](./Production performance.png)
+![Production Dashboard](./dashboard.png)
 
 ---
 
@@ -14,7 +14,7 @@ Production Performance Analysis
 
 Comparison between theoretical and actual production time to identify inefficiencies and performance deviations.
 
-![Production Performance](./Production Performance Analysis.png)
+![Production Performance](./performance.png)
 
 ---
 
@@ -22,7 +22,7 @@ Cycle Time Analysis
 
 Analysis of production cycle time variability and comparison with theoretical targets to detect anomalies and inefficiencies.
 
-![Cycle Time](./Production Cycle Time Analysis.png)
+![Cycle Time](./cycle-time.png)
 
 ---
 
